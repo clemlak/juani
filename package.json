@@ -1,0 +1,22 @@
+{
+  "name": "juani",
+  "version": "0.0.1",
+  "description": "Crypto trading bot (totally unsafe)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "crypto",
+    "trading",
+    "bot",
+    "unsafe"
+  ],
+  "author": "clemlak",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "eslint": "^5.14.1"
+  }
+}
