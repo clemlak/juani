@@ -1,1 +1,1 @@
-An experimental crypto trading bot, totally unsafe!
+Automated token-swapping through Uniswap (totally unsafe)
