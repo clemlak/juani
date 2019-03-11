@@ -1,16 +1,19 @@
 {
   "name": "juani",
   "version": "0.0.1",
-  "description": "Crypto trading bot (totally unsafe)",
+  "description": "Automated token-swapping through Uniswap (totally unsafe)",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "keywords": [
-    "crypto",
+    "token",
+    "ERC20",
     "trading",
     "bot",
-    "unsafe"
+    "automated",
+    "unsafe",
+    "swapping"
   ],
   "author": "clemlak",
   "license": "MIT",
